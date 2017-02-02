@@ -30,8 +30,8 @@ title: 摩登前端开发者
       <div class="name">
        happypeter
       </div>
-      <div class="job-title"><a href="http://haoduoshipin.com">本书作者，好多视频网作者</a></div>
-      JS 吃世界。
+      <div class="job-title"><a href="http://haoqicat.com">好奇猫网站主播</a></div>
+      一个喜欢录视频的 JS 开发者。
     </div>
   </div>
 </div>
