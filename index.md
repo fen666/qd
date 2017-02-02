@@ -13,9 +13,9 @@ title: 摩登前端开发者
         <a href="https://github.com/happypeter">happypeter</a>
       </div>
       <p class='book-description'>
-        《 JS 独孤求败》是一本把你从零基础学员变成一个编程高手的厚厚的书。
+        《摩登前端开发者》面向想成为 JS 开发者的新手，瞄准 ”Nodejs + React + 微信小程序“ 技术栈。
       </p>
-      <a href="#toc" class="read-btn">开始阅读</a>
+      <a href="#toc" class="read-btn">课程目录</a>
     </div>
     <img alt="git" class="book-image" src="http://o84cbt6xd.bkt.clouddn.com/banner.png"/>
   </div>
