@@ -21,7 +21,7 @@ title: 摩登前端开发者
   </div>
 </section>
 <div class="divider">
-  <a href="#">PLACEHOLDER</a>
+  <a href="http://qd.haoduoshipin.com">返回 qd.haoduoshipin.com</a>
 </div>
 <div class="reviewers">
   <div class="name-card">
